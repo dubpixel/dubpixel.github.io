@@ -1,4 +1,2 @@
 # dubpixel.github.io
-github.io websitee
-
-this
+github.io website
